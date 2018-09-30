@@ -1,5 +1,6 @@
 # kmeans-clustering_GUI
-This repository conatins the clustering software which employs kmeans clustering.
+This repository conatins the clustering software which employs kmeans clustering.This project is alloted to us by our university as 
+for internal assesment.
 
 ## Modules used
 - tkinter
