@@ -17,7 +17,7 @@ python3 kmeans_GUI.py
 - Clustered dataset is saved in ***Clustered_dataset*** folder.
 
 ## Author
-- ***Jiten Sinha*** [LinkedIn](https://www.linkedin.com/in/jiten-sinha-131043159/)
+- ***Jiten Sinha***-[LinkedIn](https://www.linkedin.com/in/jiten-sinha-131043159/)
 
 ## License
 This project is based under MIT License. Read [LICENSE.md](https://github.com/jitensinha98/kmeans-clustering_GUI/blob/master/LICENSE) for more information.
